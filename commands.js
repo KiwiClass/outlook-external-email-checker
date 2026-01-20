@@ -5,8 +5,8 @@ Office.onReady(() => {
 
 // Configuration - Set your organization's domain(s)
 const INTERNAL_DOMAINS = [
-  'itworks.co.nz',
-  'subsidiary.com'
+  'Kiwiclass.org.nz',
+  'mclass.org.nz'
 ];
 
 /**
